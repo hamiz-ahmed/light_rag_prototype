@@ -1,0 +1,10 @@
+git+https://github.com/HKUDS/LightRAG.git
+python-dotenv>=1.0.0
+openai>=1.0.0
+qdrant-client>=1.7.0
+neo4j>=5.0.0
+numpy>=1.21.0
+tiktoken>=0.5.0
+dataclasses-json>=0.6.0
+nest-asyncio>=1.5.0
+pymupdf>=1.23.0
