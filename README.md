@@ -2,6 +2,8 @@
 
 A command-line interface for creating and querying RAG (Retrieval-Augmented Generation) systems using LightRAG with configurable LLM, embedding model, vector database (Qdrant), and graph database (Neo4j).
 
+LightRAG Github Repo: https://github.com/HKUDS/LightRAG
+
 ## Features
 
 - 📚 **Document Processing**: Scan and process documentation repositories (including PDFs)
